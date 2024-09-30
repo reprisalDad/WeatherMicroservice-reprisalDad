@@ -9,3 +9,8 @@ http://localhost:8080/getWeather/lat=26.8467&lon=80.9462 (latitude and Longitude
 This will be our Output
 
 <img width="540" alt="Screenshot 2024-09-30 at 4 22 31 PM" src="https://github.com/user-attachments/assets/fe51972e-4174-43ec-a6d1-075738fb21a5">
+
+contact: Ayush Srivastava - www.linkedin.com/in/ayush-srivastava-521966217 - ayushsrivastavaoffice123@gmail.com
+
+Project Link: https://github.com/reprisalDad/WeatherMicroservice-reprisalDad
+
